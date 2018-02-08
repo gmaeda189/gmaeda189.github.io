@@ -1,0 +1,40 @@
+body{
+	text-align: center;
+	font-family: Futura, sans-serif;
+	font-size: 24px;
+	color: #fff;
+}
+#slogan{
+	font-size: 42px;
+	width: 700px;
+	margin:0 auto;
+}
+#header{
+	height: 800px;
+/*background: url("https://images7.alphacoders.com/421/421837.jpg");*/
+background: url("../images/bob's_burgers.jpg");
+}
+h1 {
+color: #fff;
+background-color: #4a4a4a90;
+text-align: center;
+font-size: 80px;
+width: 500px;
+margin:0 auto;
+}
+
+p{
+	background-color: #4a4a4a90;
+}
+ul{
+	list-style-type: none;
+	background-color: #4a4a4a90;
+}
+hr{
+	color:;
+	width:400px;
+}
+a {
+	color:#000;
+}
+	
