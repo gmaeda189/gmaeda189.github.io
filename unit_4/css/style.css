@@ -2,6 +2,8 @@ body{
 	text-align: center;
 	font-size: 24px;
 	color: #fff;
+    font-family: 'Libre Baskerville', serif;
+
 }
 #slogan{
 	font-size: 42px;
@@ -14,6 +16,8 @@ body{
 background: url("../images/bob's_burgers.jpg");
 }
 h1 {
+	font-family: 'Montserrat', sans-serif;
+	@import url(https://fonts.googleapis.com/css?family=Montserrat);
 color: #fff;
 background-color: #4a4a4a90;
 text-align: center;
@@ -24,7 +28,10 @@ margin:0 auto;
 
 p{
 	background-color: #4a4a4a90;
+	font-family: 'Libre Baskerville', serif;
+	@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
 }
+
 ul{
 	list-style-type: none;
 	background-color: #4a4a4a90;
