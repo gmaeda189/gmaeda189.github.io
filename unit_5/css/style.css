@@ -1,0 +1,114 @@
+body{
+	text-align: center;
+	font-size: 24px;
+	color: #fff;
+    font-family: 'Libre Baskerville', serif;
+
+}
+
+#slogan{
+	font-size: 1.5em;
+	display: inline-block;
+	margin:0 auto;
+}
+
+header{
+	margin: 1em;
+	height: 800px;
+/*background: url("https://images7.alphacoders.com/421/421837.jpg");*/
+background: url("../images/bob's_burgers.jpg");
+border: 1px black solid;
+padding: 20px;
+}
+nav{
+background-color: #E8C66A;	
+border: 1px black solid;
+padding: 20px;
+}
+
+#one{
+background-color: #FFE2B8;	
+border: 1px black solid;
+padding: 20px;}
+
+#article1{
+background-color: #E89C6C;	
+border: 1px black solid;
+padding: 20px;
+}
+
+#burgerofday{
+background-color: #FFE2B8;	
+border: 1px black solid;
+padding: 20px;
+}
+
+#article2{
+background-color: #E89C6C;	
+border: 1px black solid;
+padding: 20px;
+}
+#two
+{
+background-color: #FFE2B8;	
+border: 1px black solid;
+padding: 20px;
+}
+
+#recipe{
+background-color: #FFE2B8;	
+border: 1px black solid;
+padding: 20px;
+}
+
+#article3{
+background-color: #E89C6C;	
+border: 1px black solid;
+padding: 20px;
+}
+
+#article4{
+background-color: #E89C6C;	
+border: 1px black solid;
+padding: 20px;
+}
+
+footer{
+background-color: #FF957E;	
+border: 1px black solid;
+padding: 20px;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	@import url(https://fonts.googleapis.com/css?family=Montserrat);
+color: #fff;
+background-color: #4a4a4a90;
+text-align: center;
+font-size: 4em;
+margin:.2em;
+
+display: inline-block;
+}
+
+p{
+	background-color: #4a4a4a90;
+	font-family: 'Libre Baskerville', serif;
+	@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+}
+
+ul{
+	display: inline-block;
+	list-style-type: none;
+	background-color: #4a4a4a90;
+}
+hr{
+	color:;
+	width:400px;
+}
+a {
+text-align: center;
+	margin: 0 auto;
+	color:#000;
+}
+	
