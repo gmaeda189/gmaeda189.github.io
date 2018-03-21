@@ -1,0 +1,159 @@
+body{
+	text-align: center;
+	font-size: 24px;
+	color: #fff;
+    font-family: 'Libre Baskerville', serif;
+
+}
+
+#slogan{
+	font-size: 1.5em;
+	display: inline-block;
+	margin:0 auto;
+}
+
+header{
+background: url("../images/bob's_burgers.jpg");
+padding: 1.25em;
+height: 20em;
+width:95%;
+ali
+}
+
+nav{
+background-color: #E8C66A;	
+border: 1px black solid;
+padding: 1.25em;
+float: right;
+}
+nav a
+{
+ text-decoration: none;
+  color: black;
+  margin: 1.5em;
+  display: inline-block;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+#two_column{
+background-color: #FFB7CF;	
+border: 1px black solid;
+padding: 1.25em;
+width: 95%
+}
+
+#article_left{
+background-color: violet;	
+border: 1px black solid;
+padding: 1.25em;
+float: left;
+width: 30%;
+}
+
+#burgerofday{
+background: url("../images/burger_of_day.jpg");	
+border: 1px black solid;
+padding: 1.25em;
+height:20em;
+
+}
+
+#article_right{
+background-color: pink;	
+border: 1px black solid;
+padding: 1.25em;
+float: right;   
+width: 62%;
+}
+#two
+{
+background-color: #FFE2B8;	
+border: 1px black solid;
+padding: 1.25em;
+width: 95%
+}
+
+#recipe{
+display: block;
+background: url("../images/recipe.jpg");
+border: 1px black solid;
+padding: 1.25em;
+height:20em;
+
+}
+
+#article3{
+background-color: #E89C6C;	
+border: 1px black solid;
+padding: 1.25em;
+}
+
+#article4{
+background-color: #E89C6C;	
+border: 1px black solid;
+padding: 1.25em;
+}
+
+footer{
+background-color: #FF957E;	
+border: 1px black solid;
+padding: 1.25em;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	@import url(https://fonts.googleapis.com/css?family=Montserrat);
+color: #fff;
+background-color: #4a4a4a90;
+text-align: center;
+font-size: 4em;
+margin:.2em;
+
+display: inline-block;
+}
+
+p{
+	background-color: #4a4a4a90;
+	font-family: 'Libre Baskerville', serif;
+	@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+}
+
+ul{
+	display: inline-block;
+	list-style-type: none;
+	background-color: #4a4a4a90;
+}
+h
+}
+a {
+text-align: center;
+	margin: 0 auto;
+	color:#000;
+}
+	
+@media only screen and (max-width: 800px) {
+  nav {
+    float: none;
+  }	
+  nav {
+    float: none;
+  }
+  nav a {
+      margin: 0 1.8em .75em 0;
+  }
+
+@media only screen and (max-width: 480px) {
+h1, nav {
+display: block;
+text-align: center;
+}
+   nav a {
+margin: 0 1em 1em;
+}
